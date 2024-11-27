@@ -7,14 +7,17 @@ Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SQL", "SQL\SQL.ssmssqlproj"
 EndProject
 Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "CreateTabels", "CreateTabels\CreateTabels.ssmssqlproj", "{6435ABAA-D0F9-46E9-B0A6-29086FB52EC7}"
 EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "DML", "DML\DML.ssmssqlproj", "{3ACCDA25-E05C-49B2-B5EB-8704993CD44D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AB7FA59-F4D3-49AC-A4F4-CC1995C850EB}.Default|Default.ActiveCfg = Default
 		{61E018EB-50EC-4DB0-ACE1-A39CFC2B8BFB}.Default|Default.ActiveCfg = Default
-		{8C877173-507A-447A-8B6A-4202DBDC55B3}.Default|Default.ActiveCfg = Default
 		{6435ABAA-D0F9-46E9-B0A6-29086FB52EC7}.Default|Default.ActiveCfg = Default
+		{3ACCDA25-E05C-49B2-B5EB-8704993CD44D}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
