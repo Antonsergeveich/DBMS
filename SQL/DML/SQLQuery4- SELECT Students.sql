@@ -1,4 +1,4 @@
-USE AcademySQL;
+USE PD_318_DML;
 
 SELECT 
 		last_name   AS N'Фамилия',
