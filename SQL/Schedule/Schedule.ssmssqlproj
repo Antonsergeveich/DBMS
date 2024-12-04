@@ -28,11 +28,17 @@
           <AssociatedConnUserName />
           <FullPath>SQLQuery0 - Alter Groups.sql</FullPath>
         </FileNode>
-        <FileNode Name="SQLQuery1 - INSERT.sql">
+        <FileNode Name="SQLQuery0 - CREATE PROCEDURE.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PCANTON\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>PCANTON\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>SQLQuery1 - INSERT.sql</FullPath>
+          <FullPath>SQLQuery0 - CREATE PROCEDURE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery1 - INSERT StacionarToSchedule.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PCANTON\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PCANTON\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery1 - INSERT StacionarToSchedule.sql</FullPath>
         </FileNode>
         <FileNode Name="SQLQuery2 - SELECT FROM Schedule.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PCANTON\SQLEXPRESS:True</AssociatedConnectionMoniker>
@@ -40,17 +46,23 @@
           <AssociatedConnUserName />
           <FullPath>SQLQuery2 - SELECT FROM Schedule.sql</FullPath>
         </FileNode>
-        <FileNode Name="SQLQuery22 - CREATE PROCEDURE.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PCANTON\SQLEXPRESS:True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>PCANTON\SQLEXPRESS</AssociatedConnSrvName>
-          <AssociatedConnUserName />
-          <FullPath>SQLQuery22 - CREATE PROCEDURE.sql</FullPath>
-        </FileNode>
         <FileNode Name="SQLQuery3 - CREATE PROCEDURE - Schedule for  group.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PCANTON\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>PCANTON\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>SQLQuery3 - CREATE PROCEDURE - Schedule for  group.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery4 - DELETE FROM SCHEDULE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PCANTON\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PCANTON\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery4 - DELETE FROM SCHEDULE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery5 - StacionarToScheduleProcedur.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PCANTON\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PCANTON\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery5 - StacionarToScheduleProcedur.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
