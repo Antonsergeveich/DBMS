@@ -70,11 +70,23 @@
           <AssociatedConnUserName />
           <FullPath>SQLQuery8 - INSERT Holidays.sql</FullPath>
         </FileNode>
+        <FileNode Name="SQLQuery8 - UPDATE NewYear.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PCANTON\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PCANTON\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery8 - UPDATE NewYear.sql</FullPath>
+        </FileNode>
         <FileNode Name="SQLQuery9 - INSERT DaysOFF.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PCANTON\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>PCANTON\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>SQLQuery9 - INSERT DaysOFF.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery9 - INSERT NewYearDays.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PCANTON\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PCANTON\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery9 - INSERT NewYearDays.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
