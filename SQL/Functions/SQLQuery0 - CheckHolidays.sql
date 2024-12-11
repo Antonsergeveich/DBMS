@@ -11,6 +11,8 @@ SET DATEFIRST 1;
 --EXEC	sp_SummerHolidaysFor 2024;
 --DELETE FROM DaysOFF
 EXEC sp_SetDaysOffFor 2025;
+PRINT(dbo.GetEasterDate(2025));
+PRINT(DATENAME(WEEKDAY, dbo.GetEasterDate(2025)));
 
 SELECT
 	[date], 

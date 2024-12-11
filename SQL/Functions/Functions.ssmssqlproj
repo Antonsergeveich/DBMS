@@ -40,41 +40,41 @@
           <AssociatedConnUserName />
           <FullPath>SQLQuery1 - CountLessonsForGroup.sql</FullPath>
         </FileNode>
+        <FileNode Name="SQLQuery8 - GetLastMonOfApril.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PCANTON\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PCANTON\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery8 - GetLastMonOfApril.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery8 - GetLastMonOfJuly.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PCANTON\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PCANTON\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery8 - GetLastMonOfJuly.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery8 - GetLastMonOfYear.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PCANTON\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PCANTON\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery8 - GetLastMonOfYear.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery8 - MayHoliDays PROCEDURE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PCANTON\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PCANTON\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery8 - MayHoliDays PROCEDURE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery8 - NewYearDays.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PCANTON\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PCANTON\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery8 - NewYearDays.sql</FullPath>
+        </FileNode>
         <FileNode Name="SQLQuery8 - Summer Holidays PROCEDURE.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PCANTON\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>PCANTON\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>SQLQuery8 - Summer Holidays PROCEDURE.sql</FullPath>
-        </FileNode>
-        <FileNode Name="SQLQuery9 - GetLastMonOfApril.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PCANTON\SQLEXPRESS:True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>PCANTON\SQLEXPRESS</AssociatedConnSrvName>
-          <AssociatedConnUserName />
-          <FullPath>SQLQuery9 - GetLastMonOfApril.sql</FullPath>
-        </FileNode>
-        <FileNode Name="SQLQuery9 - GetLastMonOfJuly.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PCANTON\SQLEXPRESS:True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>PCANTON\SQLEXPRESS</AssociatedConnSrvName>
-          <AssociatedConnUserName />
-          <FullPath>SQLQuery9 - GetLastMonOfJuly.sql</FullPath>
-        </FileNode>
-        <FileNode Name="SQLQuery9 - GetLastMonOfYear.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PCANTON\SQLEXPRESS:True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>PCANTON\SQLEXPRESS</AssociatedConnSrvName>
-          <AssociatedConnUserName />
-          <FullPath>SQLQuery9 - GetLastMonOfYear.sql</FullPath>
-        </FileNode>
-        <FileNode Name="SQLQuery9 - MayHoliDays PROCEDURE.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PCANTON\SQLEXPRESS:True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>PCANTON\SQLEXPRESS</AssociatedConnSrvName>
-          <AssociatedConnUserName />
-          <FullPath>SQLQuery9 - MayHoliDays PROCEDURE.sql</FullPath>
-        </FileNode>
-        <FileNode Name="SQLQuery9 - NewYearDays.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PCANTON\SQLEXPRESS:True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>PCANTON\SQLEXPRESS</AssociatedConnSrvName>
-          <AssociatedConnUserName />
-          <FullPath>SQLQuery9 - NewYearDays.sql</FullPath>
         </FileNode>
         <FileNode Name="SQLQuery9 - SetDaysOff.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PCANTON\SQLEXPRESS:True</AssociatedConnectionMoniker>
